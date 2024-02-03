@@ -16,4 +16,4 @@ Also this script <code>create database with v2board name and create user v2board
 
 
 <b>Easy install:</b>
-<pre><code>curl -O https://raw.githubusercontent.com/miladrajabi2002/v2board-install-auto/master/install.sh && chmod +x ./install.sh && ./install.sh</code></pre>
+<pre><code>curl -O https://raw.githubusercontent.com/miladrajabi2002/v2board-installtion/master/install.sh && chmod +x ./install.sh && ./install.sh</code></pre>
