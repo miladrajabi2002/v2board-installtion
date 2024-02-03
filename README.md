@@ -8,4 +8,8 @@ also this script create database with v2board name and create user v2board with 
 
 before run script set A record domain to ip for instaling ssl
 
-curl -O https://raw.githubusercontent.com/miladrajabi2002/v2board-install-auto/master/install.sh && chmod +x ./install.sh && ./install.sh
+
+
+install:
+
+<code>curl -O https://raw.githubusercontent.com/miladrajabi2002/v2board-install-auto/master/install.sh && chmod +x ./install.sh && ./install.sh</code?
