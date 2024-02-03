@@ -1,4 +1,4 @@
-# v2board-install-auto
+# v2board install automation
 
 Install automation v2board in your server
 
