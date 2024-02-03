@@ -282,7 +282,7 @@ then
 
         git remote add origin https://github.com/v2board/v2board.git
 
-        git pull origin dev
+        git pull origin master
 
         composer install
 
